@@ -62,7 +62,7 @@ config.redis = {
 };
 
 
-config.io_port = 10002;
+config.io_port = 10001;
 config.api_port = 11001;
 
 module.exports = config;
